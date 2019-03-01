@@ -1,0 +1,15 @@
+body{
+	margin-right: 50px;
+	margin-left: 50px;
+	background-color: white;
+	color: teal;
+	font-family: "Dancing Script";
+	background-image: url(https://www.muralswallpaper.co.uk/app/uploads/harmony-fade-ombre-wallpaper-design-plain.jpg);
+}
+h1, h2{
+	font-family: "Times New Roman";
+}
+table{
+	border: 1px solid black;
+	text-align: center;
+}
